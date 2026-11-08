@@ -18,7 +18,7 @@ Dataset terdiri dari 500 baris data, 20 negara, dan periode tahun 2000–2024.
 Untuk menjalankan notebook, unduh dataset dari tautan tersebut dan sesuaikan lokasi file CSV dengan konfigurasi pembacaan dataset pada notebook.
 
 Petunjuk Menjalankan Notebook
-Notebook dapat dijalankan menggunakan Visual Studio Code dengan ekstensi Jupyter atau Google Colab.
+dapat dijalankan menggunakan Visual Studio Code dengan ekstensi Jupyter atau Google Colab.
 Persiapan:
 Pastikan Python sudah terinstal.
 Instal library yang dibutuhkan:
