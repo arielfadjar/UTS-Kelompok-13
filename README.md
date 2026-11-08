@@ -4,6 +4,7 @@ Kelompok 13
 anggota Kelompok : - 231112216 Aldi Pebrian Simatupang
                    - 231112756 Ariel Fadjar
                    - 231112162 Luthfi Aulia Tarswa
+
 deskripsi masalah : 
 Proyek ini membahas analisis pola penggunaan air berdasarkan data konsumsi air dari berbagai negara selama periode 2000–2024. Tujuan proyek adalah mengidentifikasi kelompok atau pola penggunaan air berdasarkan beberapa variabel, seperti total konsumsi air, penggunaan air per kapita, penggunaan air pada sektor pertanian, industri, dan rumah tangga, curah hujan, serta tingkat penurunan air tanah.
 Metode yang digunakan adalah pendekatan Unsupervised Learning dengan teknik clustering untuk mengelompokkan observasi berdasarkan kemiripan karakteristik penggunaan air. Dataset yang digunakan merupakan data agregat tingkat negara dan tahun, bukan data penggunaan air dari masing-masing rumah tangga atau individu.
