@@ -1,0 +1,3 @@
+Data,Jumlah Observasi,Jumlah Cluster Terbentuk,Silhouette Score
+Training 2000-2019,400,7,0.11389382832661997
+Testing 2020-2024,100,7,0.05541172071303891

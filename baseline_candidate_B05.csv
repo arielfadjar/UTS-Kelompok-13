@@ -1,0 +1,4 @@
+Model,Jumlah Cluster,Silhouette Score
+Baseline K-Means,7,0.11027265962909247
+Agglomerative Clustering,7,0.06930878906159031
+Final K-Means,7,0.1113802202022366

@@ -1,0 +1,10 @@
+Aspek Evaluasi,Hasil
+Feature Selection,7 fitur numerik digunakan
+Jumlah Fitur Terpilih,7
+Model Diagnosis,Evaluasi kualitas cluster
+Rata-rata Silhouette,0.1114
+Error Analysis,Analisis pemisahan cluster
+Data Silhouette Negatif,18
+Persentase Data Silhouette Negatif,3.6
+Algoritma Final,K-Means
+Jumlah Cluster,7

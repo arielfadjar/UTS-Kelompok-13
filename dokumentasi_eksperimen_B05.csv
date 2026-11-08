@@ -1,0 +1,18 @@
+Aspek,Keterangan
+Topik,Pola Penggunaan Air Rumah Tangga
+ID Topik,B05
+Sumber Dataset,Kaggle - Global Water Consumption Dataset 2000-2024
+Jumlah Observasi,500
+Jumlah Fitur Clustering,7
+Fitur,"Total Water Consumption (Billion Cubic Meters), Per Capita Water Use (Liters per Day), Agricultural Water Use (%), Industrial Water Use (%), Household Water Use (%), Rainfall Impact (Annual Precipitation in mm), Groundwater Depletion Rate (%)"
+Preprocessing,StandardScaler
+Metode,Unsupervised Learning - Clustering
+Algoritma Final,K-Means
+Algoritma Pembanding,Agglomerative Clustering
+Jumlah Cluster Final,7
+Random State Final,0
+n_init Final,100
+Inertia Final,2275.4332
+Silhouette Score Final,0.1114
+Rata-rata ARI Validasi,0.4094
+Keterbatasan,"Silhouette Score rendah dan kestabilan hasil clustering masih terbatas. Data merupakan data agregat negara-tahun, bukan data rumah tangga individual."
